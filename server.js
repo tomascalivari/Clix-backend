@@ -4,10 +4,10 @@ app.post("/seed-fake-users", async (req, res) => {
     {
       id: "fake_user_1", name: "Mati 🎸",
       track: {
-        name: "Corazón Delator", artist: "Gustavo Cerati",
-        albumArt: "https://i.scdn.co/image/ab67616d0000b273c4f4a9b5d1c1b1e4e4e4e4e4",
-        id: "2374M0fQpWi3dLnB54qaLX",
-        uri: "spotify:track:2374M0fQpWi3dLnB54qaLX",
+        name: "Corazón Delator", artist: "Soda Stereo",
+        albumArt: "https://i.scdn.co/image/ab67616d0000b2737f4e0ce6c495e2a7c86aed4b",
+        id: "4go2cRf8q2t8PQZjKn93xK",
+        uri: "spotify:track:4go2cRf8q2t8PQZjKn93xK",
         progressMs: 45000
       }
     },
@@ -15,7 +15,7 @@ app.post("/seed-fake-users", async (req, res) => {
       id: "fake_user_2", name: "Juli 🎧",
       track: {
         name: "Mariposa Technicolor", artist: "Fito Páez",
-        albumArt: "https://i.scdn.co/image/ab67616d0000b273c4f4a9b5d1c1b1e4e4e4e4e4",
+        albumArt: "https://i.scdn.co/image/ab67616d0000b273e5b6c1c1b1e4e4e4e4e4e4e4",
         id: "5Z01UMMf7V1o0MzF86s6WJ",
         uri: "spotify:track:5Z01UMMf7V1o0MzF86s6WJ",
         progressMs: 120000
@@ -24,10 +24,10 @@ app.post("/seed-fake-users", async (req, res) => {
     {
       id: "fake_user_3", name: "Santi 🎵",
       track: {
-        name: "Charly 313", artist: "Charly García",
-        albumArt: "https://i.scdn.co/image/ab67616d0000b273c4f4a9b5d1c1b1e4e4e4e4e4",
-        id: "3YBMS3HNEbDNIjQdMLKCOR",
-        uri: "spotify:track:3YBMS3HNEbDNIjQdMLKCOR",
+        name: "Rezo por Vos", artist: "Charly García",
+        albumArt: "https://i.scdn.co/image/ab67616d0000b273c1b1e4e4e4e4e4e4e4e4e4e4",
+        id: "6dOzqs6o4DNzXs4jF2v1Yq",
+        uri: "spotify:track:6dOzqs6o4DNzXs4jF2v1Yq",
         progressMs: 30000
       }
     },
